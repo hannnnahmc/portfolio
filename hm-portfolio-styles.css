@@ -1,0 +1,9 @@
+body nav {
+    background-color: #666;
+    padding: 5px 40px;
+}
+
+body nav .logo {
+    width: auto;
+    height: 90px;
+}
