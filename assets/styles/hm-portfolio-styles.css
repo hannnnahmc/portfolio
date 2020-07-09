@@ -1,7 +1,7 @@
 body {
     background-color: #444;
     margin: 0;
-    font-family: "Helvetica", Arial, sans-serif;
+    font-family: "Century Gothic", Arial, sans-serif;
     color: #fff;
     font-size: 1.5rem;
 }
@@ -11,13 +11,13 @@ body nav {
     padding: 5px 40px;
 }
 
-body nav .logo {
+body nav .logo img {
     width: auto;
-    height: 90px;
+    height: 70px;
 }
 
 body h1 {
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 body h2 {
@@ -25,9 +25,13 @@ body h2 {
 }
 
 body .container.container-padding {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 body .container .row.row-padding {
     padding-bottom: 50px;
+}
+
+body .green-separator {
+    color: #2BFEC4;
 }
