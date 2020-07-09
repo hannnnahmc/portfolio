@@ -49,6 +49,11 @@ body .button {
     color: #666;
 }
 
+body .button:hover {
+    background-color: #2BFEC4;
+    text-decoration: none;
+}
+
 body .button img {
     margin-left: 20px;
     width: 20px;
