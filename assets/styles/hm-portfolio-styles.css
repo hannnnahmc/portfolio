@@ -39,3 +39,17 @@ body .container .row.row-padding {
 body .green-separator {
     border-top: 5px solid #2BFEC4;
 }
+
+body .button {
+    float: right;
+    background-color: #fff;
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: 2px solid #2BFEC4;
+    color: #666;
+}
+
+body .button img {
+    margin-left: 20px;
+    width: 20px;
+}
