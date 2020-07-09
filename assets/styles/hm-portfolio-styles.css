@@ -25,3 +25,7 @@ body h2 {
 body .container.container-padding {
     padding: 100px 0;
 }
+
+body .container .row.row-padding {
+    padding-top: 50px;
+}
