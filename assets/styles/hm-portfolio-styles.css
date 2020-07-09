@@ -12,3 +12,15 @@ body nav .logo {
     width: auto;
     height: 90px;
 }
+
+body h1 {
+    font-size: 100px;
+}
+
+body h2 {
+    font-size: 55px;
+}
+
+body .container.container-padding {
+    padding: 100px 0;
+}
