@@ -65,4 +65,7 @@ body img.user-persona, body img.max-width {
 
 body .computer-screen {
     background-image: url('../../images/Desktop.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 540px;
 }
