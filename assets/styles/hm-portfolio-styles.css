@@ -62,3 +62,7 @@ body .button img {
 body img.user-persona, body img.max-width {
     max-width: 100%;
 }
+
+body .computer-screen {
+    background-image: url('../../images/Desktop.png');
+}
