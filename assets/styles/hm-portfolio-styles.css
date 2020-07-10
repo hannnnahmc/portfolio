@@ -59,6 +59,6 @@ body .button img {
     width: 20px;
 }
 
-body img.user-persona {
+body img.user-persona, body img.max-width {
     max-width: 100%;
 }
