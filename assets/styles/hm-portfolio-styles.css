@@ -72,6 +72,5 @@ body .computer-screen {
 
 body .container-fluid .row.priorities-bg {
     background-image: url('../../images/Priorities.png');
-    background-repeat: no-repeat;
     background-position: center;
 }
