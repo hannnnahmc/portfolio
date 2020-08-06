@@ -78,3 +78,8 @@ body .container-fluid .row.priorities-bg {
 body .container.container-teal {
     background-color: #2BFEC4;
 }
+
+body .container .preview-image {
+    height: 500px;
+    overflow-y: hidden;
+}
