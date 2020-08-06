@@ -75,9 +75,12 @@ body .container-fluid .row.priorities-bg {
     background-position: center;
 }
 
-body .container-teal {
-    background-color: #2BFEC4;
+body .container-grey {
     padding-top: 100px;
+}
+
+body .container-teal .button {
+    float: left;
 }
 
 body .container .preview-image {
