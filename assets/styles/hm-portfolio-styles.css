@@ -32,6 +32,10 @@ body .container-padding {
     padding: 50px 0;
 }
 
+body .container-padding-top {
+    padding-top: 50px;
+}
+
 body .row.row-padding {
     padding-bottom: 50px;
 }
