@@ -132,7 +132,7 @@ footer i.fab.fa-linkedin {
         padding-bottom: 15px;
     }
 
-    body .banner img {
+    body .banner .col-12.col-md-4 img {
         display: none;
     }
 
