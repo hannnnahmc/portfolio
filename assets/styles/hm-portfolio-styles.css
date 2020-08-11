@@ -95,6 +95,10 @@ body .container .preview-image {
     overflow-y: hidden;
 }
 
+body ul {
+    padding-left: 18px;
+}
+
 footer i {
     font-size: 40px;
     color: #fff;
