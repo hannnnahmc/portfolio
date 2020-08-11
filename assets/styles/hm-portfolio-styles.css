@@ -43,6 +43,10 @@ body .row.row-padding {
     padding-bottom: 50px;
 }
 
+body .banner {
+    background-color: #111;
+}
+
 body .green-separator {
     border-top: 5px solid #2BFEC4;
 }
