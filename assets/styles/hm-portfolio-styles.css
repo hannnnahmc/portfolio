@@ -104,6 +104,10 @@ body .priorities {
     padding: 15px;
 }
 
+body .buttons .button {
+    width: 100%;
+}
+
 footer i {
     font-size: 40px;
     color: #fff;
@@ -126,5 +130,13 @@ footer i.fab.fa-linkedin {
 @media (max-width: 767px) {
     .sm-padding {
         padding-bottom: 15px;
+    }
+
+    body .banner img {
+        display: none;
+    }
+
+    body .preview-image {
+        display: none;
     }
 }
