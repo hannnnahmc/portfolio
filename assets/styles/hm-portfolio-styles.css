@@ -139,4 +139,16 @@ footer i.fab.fa-linkedin {
     body .preview-image {
         display: none;
     }
+
+    body h1 {
+        font-size: 3rem;
+    }
+    
+    body h2 {
+        font-size: 1.75rem;
+    }
+    
+    body h3 {
+        font-size: 1.25rem;
+    }
 }
