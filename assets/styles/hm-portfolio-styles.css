@@ -52,6 +52,9 @@ body .green-separator {
 }
 
 body .button {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     float: right;
     background-color: #fff;
     padding: 10px 30px;
@@ -66,7 +69,6 @@ body .button:hover {
 }
 
 body .button img {
-    margin-left: 20px;
     width: 20px;
 }
 
